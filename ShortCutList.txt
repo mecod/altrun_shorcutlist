@@ -1,0 +1,11 @@
+F101     |                    |Computer                      |ÎÒµÄµçÄÔ                      |::{20D04FE0-3AEA-1069-A2D8-08002B30
+F0       |                    |putty                         |putty                         |D:\Programs\putty.exe
+F0       |                    |TFTPSvr                       |TFTPSvr                       |D:\Programs\TFTPSvr.exe
+F0       |                    |Hash                          |Hash                          |D:\Programs\Hash.exe
+F0       |                    |FeiQ                          |FeiQ                          |D:\Programs\FeiQ.exe
+F0       |                    |TrueCrypt                     |TrueCrypt                     |D:\Programs\TrueCrypt\TrueCrypt.exe
+F0       |                    |Timer                         |Timer                         |D:\Programs\Timer\Timer.exe
+F0       |                    |SecureFXPortable              |SecureFXPortable              |D:\Programs\SecureCRSecureFXPortable\SecureFXPortable.exe
+F0       |                    |LineCount                     |LineCount                     |D:\Programs\LineCount\LineCount.exe
+F0       |                    |FastCopy                      |FastCopy                      |D:\Programs\FastCopy211\FastCopy.exe
+F0       |                    |picpick                       |picpick                       |D:\Programs\PicPick\picpick.exe
