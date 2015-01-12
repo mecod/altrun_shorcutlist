@@ -9,3 +9,5 @@ F0       |                    |SecureFXPortable              |SecureFXPortable  
 F0       |                    |LineCount                     |LineCount                     |D:\Programs\LineCount\LineCount.exe
 F0       |                    |FastCopy                      |FastCopy                      |D:\Programs\FastCopy211\FastCopy.exe
 F0       |                    |picpick                       |picpick                       |D:\Programs\PicPick\picpick.exe
+F5       |No_Encoding         |ss                            |ss                            |@cscript D:\MyDocuments\ss.vbs "{%p}"
+F0       |No_Encoding         |renwu                         |定时器任务                    |"D:\Programs\Timer\Timer.exe" {%p}
