@@ -5,9 +5,9 @@ F0       |                    |Hash                          |Hash              
 F0       |                    |FeiQ                          |FeiQ                          |D:\Programs\FeiQ.exe
 F0       |                    |TrueCrypt                     |TrueCrypt                     |D:\Programs\TrueCrypt\TrueCrypt.exe
 F0       |                    |Timer                         |Timer                         |D:\Programs\Timer\Timer.exe
-F0       |                    |SecureFXPortable              |SecureFXPortable              |D:\Programs\SecureCRSecureFXPortable\SecureFXPortable.exe
+F1       |                    |SecureCRTPortable             |SecureCRTPortable             |D:\Programs\SecureCRSecureFXPortable\SecureCRTPortable.exe
 F0       |                    |LineCount                     |LineCount                     |D:\Programs\LineCount\LineCount.exe
 F0       |                    |FastCopy                      |FastCopy                      |D:\Programs\FastCopy211\FastCopy.exe
 F0       |                    |picpick                       |picpick                       |D:\Programs\PicPick\picpick.exe
-F5       |No_Encoding         |ss                            |ss                            |@cscript D:\MyDocuments\ss.vbs "{%p}"
-F0       |No_Encoding         |renwu                         |定时器任务                    |"D:\Programs\Timer\Timer.exe" {%p}
+F10      |No_Encoding         |ss                            |ss                            |@cscript D:\MyDocuments\ss.vbs "{%p}"
+F1       |No_Encoding         |renwu                         |定时器任务                    |"D:\Programs\Timer\Timer.exe" {%p}
